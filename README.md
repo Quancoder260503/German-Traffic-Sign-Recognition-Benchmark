@@ -36,7 +36,7 @@ This repository explores how different machine-learning models and preprocessing
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/<your-username>/gtsrb-classification.git
+   git clone https://github.com/Quancoder260503/gtsrb-classification.git
    cd gtsrb-classification
 
 --
