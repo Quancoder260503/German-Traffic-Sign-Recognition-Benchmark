@@ -12,9 +12,9 @@ This repository explores how different machine-learning models and preprocessing
    - Multinomial Logistic Regression  
    - Support Vector Machine (RBF kernel)
 
-2. **Deep Convolutional Networks**  
-   - **AlexNet1**: Six-layer CNN with ReLU + Dropout  
-   - **AlexNet2**: AlexNet1 + Batch Normalization
+2. Deep Convolutional Networks
+   - AlexNet1 :  Six-layer CNN with ReLU + Dropout  
+   - AlexNet2 : AlexNet1 + Batch Normalization
    - Details about the architecture in the report
 
 3. Ensemble Method  
@@ -32,4 +32,8 @@ This repository explores how different machine-learning models and preprocessing
    - Improves generalization and combats overfitting
 
 ---
-Result : Achieved a 99.704% test accuracy, ranking 14th out of over 400 students, with the project report earning a score of 19.5 out of 20.
+Instructions : 
+1. Run Sequentially: Execute the notebook from top to bottom without skipping cells to ensure correct initialization and reproducible outcomes.
+2. Training Time: Model training may take up to 45 minutes, depending on your hardware configuration.
+3. Hardware Recommendation: For best performance, run the notebook on a machine with GPU support, such as Google Colab, a CUDA-enabled local setup, or any other compatible environment.
+4. File Paths: The default file paths reflect the directory structure used during Kaggle-based training. If you're running the notebook locally or in a different environment, make sure to update the file paths accordingly to match your folder setup.
